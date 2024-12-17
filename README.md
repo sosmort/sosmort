@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### 🧑‍💻 **About Me**
 - 🎓 **Education**: Master's in **Information Systems Engineering** (2018)  
   **Abdelhamid Ibn Badis University**, Mostaganem, Algeria  
-  🏆 Thesis: *"Approach to Data Mining on Time Series"*  
+  🏆 - Master's degree final project: *"Approach to Data Mining on Time Series"*  
 - 📜 Certified in **Cisco CCNA Networking** (2017)  
 - 🛒 Currently, **Front-End Developer at Kiostore** – building scalable e-commerce themes and ensuring bug-free user experiences.
 - 🛠️ Tech Skills:  
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 | 🛒 **E-Commerce Theme**   | Custom themes for e-commerce platforms with optimized performance and SEO.                  | React, Tailwind  |
 | 📰 **Google News Clone**  | Built a responsive clone of Google News for learning and mastering CSS/JS.                  | HTML, CSS, JS    |
 | 💼 **Portfolio Websites** | Designed and developed portfolio websites for clients to showcase their expertise.          | HTML, Bootstrap  |
-| 📊 **Data Mining Thesis** | Built algorithms for time series analysis with a focus on matrix profiles and Apriori.      | Python           |
+| 📊 **Data Mining - Master's degree final project** | Built algorithms for time series analysis with a focus on matrix profiles and Apriori.      | Python           |
 
 ---
 
