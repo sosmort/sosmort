@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 - 📜 Certified in **Cisco CCNA Networking** (2017)  
 - 🛒 Currently, **Front-End Developer at Kiostore** – building scalable e-commerce themes and ensuring bug-free user experiences.
 - 🛠️ Tech Skills:  
-  - HTML | CSS | JavaScript | React.js  
+  - HTML | CSS | JavaScript <!-- | React.js --> 
   - Styling Libraries: Bootstrap, TailwindCSS  
-  - Tools: Git, npm, Figma  
+  - Tools: Git
 
 ---
 
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 ### 🌟 **Skills**
 - **Languages**: JavaScript, HTML5, CSS3  
-- **Libraries & Frameworks**: React.js, Bootstrap, TailwindCSS  
-- **Tools**: Git, VS Code, npm  
+<!-- - **Libraries & Frameworks**: React.js, Bootstrap, TailwindCSS  -->
+- **Tools**: Git, VS Code
 - **Other**: Data Mining, Cisco Networking (CCNA), Team Collaboration  
 
 
